@@ -1,2 +1,1 @@
-# see-events-schoolfair
- A tech sensitization
+# NASA Project for See-events Tech Fair
